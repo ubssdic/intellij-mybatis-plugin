@@ -25,3 +25,5 @@
     * Declaration of mapper interface、method or parameter
 * Shortcut: Option + Enter(Mac) | Alt + Enter(Windows)
 * To generate statement quickly, you can provide some method generating models with "Idea Setting" -> "Mybatis"
+
+#可以很方便的在mapper和XML中切换，快速定位业务类中调用的SQL-XML
